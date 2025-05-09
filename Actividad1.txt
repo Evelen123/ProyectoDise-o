@@ -1,0 +1,72 @@
+Hacer una web donde hagas uso de:
+
+con la del blog
+
+
+El selector :first-child
+ li:first-child {
+    background: yellow;
+  }
+
+
+ El selector ::first-letter 
+
+  /* p::first-letter {
+    font-size: 200%;
+    color: #8A2BE2;
+  } */
+
+
+ El ::selector de primera línea ::first-line
+
+  /* p::first-line {
+    background-color: yellow;
+  } */
+
+
+
+El selector :n-th-child(n) */  este con los enlaces
+  /* div:nth-child(2) {
+    background: red;
+  }
+/* p:nth-child(odd) {
+    background: red;
+  }
+  
+  p:nth-child(even) {
+    background: lightgreen;
+  } */
+
+
+
+
+
+
+El selector :hover
+/* p:hover, h1:hover, a:hover {
+    background-color: yellow;
+  } */
+
+
+
+
+El selector :lang() 
+ /* p:lang(it) { 
+    background: yellow;
+  } */
+
+
+
+El selector ::marker selecciona 
+el marcador de un elemento de la lista. */
+  /* ::marker { 
+    color: red;
+  } */
+
+
+
+
+
+
+Pal examen: un formulario y lo del after y before
+
